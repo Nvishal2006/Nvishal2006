@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Vishal  
+AI & Data Science Engineer | Backend Systems | Applied AI
 
-<!--
-**Nvishal2006/Nvishal2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently focused on:
+- Building AI-powered backend systems using FastAPI & PostgreSQL  
+- Applying ML & LLMs to solve real-world problems  
+- Designing agent-based AI systems and scalable architectures
 
-Here are some ideas to get you started:
+🛠 Core Skills:
+Python • FastAPI • PostgreSQL • SQL • Machine Learning • NLP  
+Deep Learning • LLMs • Docker • Git • AWS (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects:
+- 🌱 IBPFM (Intelligence-Based Pollution Free Mission) – AI-driven pollution monitoring & analytics platform  
+- 🛒 Smart Shop AI – Intelligent retail assistant using AI for decision support  
+- 🤖 AutoGuard AI -  A predictive maintenance Ai Agent System that book service proactively
+- 🧠 AI Cognitive Twin – Concept & architecture for a personal AI reasoning agent
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/vishal-n2006
