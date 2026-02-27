@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 27, 2026, 11_23_29 PM" src="https://github.com/user-attachments/assets/b498ecf9-2161-4411-b256-775e365bfcb6" />
 👋 Hi, I’m Vishal  
 AI & Data Science Engineer | Backend Systems | Applied AI
 
