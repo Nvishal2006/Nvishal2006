@@ -8,6 +8,7 @@ AI & Data Science Engineer | Backend Systems | Applied AI
 - Designing agent-based AI systems and scalable architectures
 
 ![Skills](https://img.shields.io/badge/Skills-9333EA?style=for-the-badge)
+
 Python • FastAPI • PostgreSQL • SQL • Machine Learning • NLP  
 Deep Learning • LLMs • Docker • Git • AWS (Basics)
 
@@ -19,6 +20,7 @@ Deep Learning • LLMs • Docker • Git • AWS (Basics)
 
 ![Contact](https://img.shields.io/badge/Contact-ef4444?style=for-the-badge)
 - LinkedIn: https://www.linkedin.com/in/vishal-n2006
+  
 ![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=06b6d4)
 ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=06b6d4)
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
