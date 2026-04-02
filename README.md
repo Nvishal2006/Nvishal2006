@@ -36,3 +36,5 @@ Deep Learning • LLMs • Docker • Git • AWS (Basics)
 ![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-Participant-blueviolet?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Published%20Research-2%20Papers-success?style=for-the-badge)
 ![Patent](https://img.shields.io/badge/Patent%20Holder-🏆-yellow?style=for-the-badge)
+
+![VISHAL – AI Circuit](https://img.shields.io/badge/VISHAL-AI%20CIRCUIT-d4af37?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1400)
