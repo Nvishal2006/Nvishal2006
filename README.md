@@ -1,13 +1,12 @@
 <div align="center">
-
-                                                     ```
-                                                     ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗     
-                                                     ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║     
-                                                     ██║   ██║██║███████╗███████║███████║██║     
-                                                     ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║     
-                                                      ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗
-                                                       ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-                                                     ```
+```
+██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗     
+██║   ██║██║██╔════╝██║  ██║██╔══██╗██║     
+██║   ██║██║███████╗███████║███████║██║     
+╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║     
+ ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+     ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Architecting+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agents+%7C+Backend+%7C+Applied+AI;Patent+Holder+%F0%9F%8F%86+%7C+2x+Published+Researcher+%F0%9F%93%84;Smart+India+Hackathon+%F0%9F%9A%80+%7C+Always+Shipping" alt="Typing SVG" />
 
