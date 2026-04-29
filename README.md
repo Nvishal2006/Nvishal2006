@@ -1,4 +1,5 @@
 <div align="center">
+
 ```
 ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ██╗     
 ██║   ██║██║██╔════╝██║  ██║██╔══██╗██║     
@@ -6,7 +7,7 @@
 ╚██╗ ██╔╝██║╚════██║██╔══██║██╔══██║██║     
  ╚████╔╝ ██║███████║██║  ██║██║  ██║███████╗
   ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-     ```
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Architecting+Intelligent+Systems+%F0%9F%A4%96;LLMs+%7C+Agents+%7C+Backend+%7C+Applied+AI;Patent+Holder+%F0%9F%8F%86+%7C+2x+Published+Researcher+%F0%9F%93%84;Smart+India+Hackathon+%F0%9F%9A%80+%7C+Always+Shipping" alt="Typing SVG" />
 
@@ -41,7 +42,7 @@ Downloading vishal_n-2025.0.1-py3-none-any.whl (∞ MB)
 
 Installing collected packages:
   → AI-and-Data-Science-Engineering
-  → Backend-Systems-with-FastAPI-SQL
+  → Backend-Systems-with-FastAPI-PostgreSQL
   → Machine-Learning-and-LLM-Integration
   → Agent-Based-AI-Architecture
   → Research-and-Patent-Innovation
@@ -232,11 +233,11 @@ Successfully installed vishal-n 🚀
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  [ BOOT  ]  >>  vishal_n.init()  ::  System Online               ║
-║  [ CORE  ]  >>  AI · ML · LLMs · FastAPI · SQL                   ║
+║  [ BOOT  ]  >>  vishal_n.init()  ::  System Online              ║
+║  [ CORE  ]  >>  AI · ML · LLMs · FastAPI · PostgreSQL           ║
 ║  [ BUILD ]  >>  Agents that think. Systems that scale.           ║
-║  [ CREDS ]  >>  Patent ✦ 2 Papers ✦ SIH ✦ Open Source           ║
-║  [ SIGNAL]  >>  🟢 Ready — Let's build something great           ║
+║  [ CREDS ]  >>  Patent ✦ 2 Papers ✦ SIH ✦ Open Source          ║
+║  [ SIGNAL]  >>  🟢 Ready — Let's build something great          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
