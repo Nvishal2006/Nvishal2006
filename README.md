@@ -16,8 +16,7 @@
 <!-- Core Identity Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-n2006)
 [![GitHub](https://img.shields.io/badge/GitHub-vishaln-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishaln)
-[![Gmail](https://img.shields.io/badge/Gmail-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vishaln)
+
 
 <br/>
 
