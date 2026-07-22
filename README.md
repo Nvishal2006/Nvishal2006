@@ -175,31 +175,6 @@ Successfully installed vishal-n 🚀
 ![AI Circuit](https://img.shields.io/badge/VISHAL-AI%20CIRCUIT-d4af37?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1400)
 
 </div>
-
----
-
-## `📊 ./git log --dashboard`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishaln&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaln&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" width="49%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vishaln&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=C9D1D9" width="70%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaln&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&area_color=00FF4120&hide_border=true" width="98%" />
-
-<br/>
-
-<!-- Trophy case -->
-<img src="https://github-profile-trophy.vercel.app/?username=vishaln&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" />
-
-</div>
-
 ---
 
 ## `📡 ./ping --connect`
