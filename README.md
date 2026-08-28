@@ -84,7 +84,6 @@ Successfully installed vishal-n 🚀
 | 🌱 | **IBPFM** | Intelligence-Based Pollution Free Mission — AI-driven pollution monitoring & analytics platform | `Python` `ML` `FastAPI` `PostgreSQL` `Data Analytics` | ![ACTIVE](https://img.shields.io/badge/●-ACTIVE-00FF41?style=flat-square) |
 | 🛒 | **Smart Shop AI** | Intelligent retail assistant using AI for smart decision support | `Python` `LLMs` `FastAPI` `SQL` `NLP` | ![SHIPPED](https://img.shields.io/badge/●-SHIPPED-0077B5?style=flat-square) |
 | 🤖 | **AutoGuard AI** | Predictive maintenance AI Agent that proactively books service | `Python` `AI Agents` `ML` `Docker` `FastAPI` | ![WIP](https://img.shields.io/badge/●-IN%20PROGRESS-f59e0b?style=flat-square) |
-| 🧠 | **AI Cognitive Twin** | Concept & architecture for a personal AI reasoning agent | `LLMs` `Agents` `NLP` `System Design` | ![CONCEPT](https://img.shields.io/badge/●-CONCEPT-9333EA?style=flat-square) |
 
 </div>
 
